@@ -1,0 +1,282 @@
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\appsettings.Development.json
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\appsettings.json
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\ApiService.exe
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\ApiService.deps.json
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\ApiService.runtimeconfig.json
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\ApiService.runtimeconfig.dev.json
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\ApiService.dll
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\ref\ApiService.dll
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\ApiService.pdb
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\ApiService.Views.dll
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\ApiService.Views.pdb
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Humanizer.dll
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Microsoft.Data.SqlClient.dll
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Microsoft.Identity.Client.dll
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Newtonsoft.Json.dll
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Newtonsoft.Json.Bson.dll
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\System.Runtime.Caching.dll
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\ApiService.csproj.AssemblyReference.cache
+D:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\ApiService.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\ApiService.AssemblyInfoInputs.cache
+D:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\ApiService.AssemblyInfo.cs
+D:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\ApiService.csproj.CoreCompileInputs.cache
+D:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\ApiService.MvcApplicationPartsAssemblyInfo.cache
+D:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\ApiService.RazorAssemblyInfo.cache
+D:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\ApiService.RazorAssemblyInfo.cs
+D:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\staticwebassets\ApiService.StaticWebAssets.Manifest.cache
+D:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\scopedcss\bundle\ApiService.styles.css
+D:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\ApiService.TagHelpers.input.cache
+D:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\ApiService.TagHelpers.output.cache
+D:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\ApiService.RazorCoreGenerate.cache
+D:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\Category\CategoryDT.cshtml.g.cs
+D:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\Category\Edit.cshtml.g.cs
+D:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+D:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\ItemImage\Edit.cshtml.g.cs
+D:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\ItemImage\ItemImageDT.cshtml.g.cs
+D:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\Item\Edit.cshtml.g.cs
+D:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\Item\ItemDT.cshtml.g.cs
+D:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+D:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\Slider\Edit.cshtml.g.cs
+D:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\Slider\SliderDT.cshtml.g.cs
+D:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\SubCategory\Edit.cshtml.g.cs
+D:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\SubCategory\SubCategoryDT.cshtml.g.cs
+D:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\ApiService.RazorTargetAssemblyInfo.cache
+D:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\ApiService.RazorTargetAssemblyInfo.cs
+D:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\ApiService.Views.pdb
+D:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\ApiService.csproj.CopyComplete
+D:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\ApiService.dll
+D:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\ref\ApiService.dll
+D:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\ApiService.pdb
+D:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\ApiService.genruntimeconfig.cache
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\ItemDiscount\Edit.cshtml.g.cs
+D:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\ItemDiscount\ItemDiscountDT.cshtml.g.cs
+D:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+D:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\Razor\Views\Users\AccessDenied.cshtml.g.cs
+D:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\Razor\Views\Users\Login.cshtml.g.cs
+D:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\Razor\Views\Users\Register.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\appsettings.Development.json
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\appsettings.json
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\ApiService.exe
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\ApiService.deps.json
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\ApiService.runtimeconfig.json
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\ApiService.runtimeconfig.dev.json
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\ApiService.dll
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\ref\ApiService.dll
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\ApiService.pdb
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\ApiService.Views.dll
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\ApiService.Views.pdb
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Humanizer.dll
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Microsoft.Data.SqlClient.dll
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Microsoft.Extensions.Identity.Core.dll
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Microsoft.Extensions.Identity.Stores.dll
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Microsoft.Identity.Client.dll
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Newtonsoft.Json.dll
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\Newtonsoft.Json.Bson.dll
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\System.Runtime.Caching.dll
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\MyWork\Asp.net Core\ApiService\ApiService\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\ApiService.csproj.AssemblyReference.cache
+F:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\ApiService.GeneratedMSBuildEditorConfig.editorconfig
+F:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\ApiService.AssemblyInfoInputs.cache
+F:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\ApiService.AssemblyInfo.cs
+F:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\ApiService.csproj.CoreCompileInputs.cache
+F:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\ApiService.MvcApplicationPartsAssemblyInfo.cache
+F:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\ApiService.RazorAssemblyInfo.cache
+F:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\ApiService.RazorAssemblyInfo.cs
+F:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\scopedcss\bundle\ApiService.styles.css
+F:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\staticwebassets\ApiService.StaticWebAssets.Manifest.cache
+F:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\ApiService.TagHelpers.input.cache
+F:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\ApiService.TagHelpers.output.cache
+F:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\ApiService.RazorCoreGenerate.cache
+F:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\Category\CategoryDT.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\Category\Edit.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\ItemDiscount\Edit.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\ItemDiscount\ItemDiscountDT.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\ItemImage\Edit.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\ItemImage\ItemImageDT.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\Item\Edit.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\Item\ItemDT.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\Slider\Edit.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\Slider\SliderDT.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\SubCategory\Edit.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\SubCategory\SubCategoryDT.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\Razor\Views\Users\AccessDenied.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\Razor\Views\Users\Login.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\Razor\Views\Users\Register.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\ApiService.RazorTargetAssemblyInfo.cache
+F:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\ApiService.RazorTargetAssemblyInfo.cs
+F:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\ApiService.Views.pdb
+F:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\ApiService.csproj.CopyComplete
+F:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\ApiService.dll
+F:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\ref\ApiService.dll
+F:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\ApiService.pdb
+F:\MyWork\Asp.net Core\ApiService\ApiService\obj\Release\net5.0\ApiService.genruntimeconfig.cache
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\appsettings.Development.json
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\appsettings.json
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\ApiService.exe
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\ApiService.deps.json
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\ApiService.runtimeconfig.json
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\ApiService.runtimeconfig.dev.json
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\ApiService.dll
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\ApiService.pdb
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\ApiService.Views.dll
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\ApiService.Views.pdb
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\Humanizer.dll
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\Microsoft.Data.SqlClient.dll
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\Microsoft.Extensions.Identity.Core.dll
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\Microsoft.Extensions.Identity.Stores.dll
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\Microsoft.Identity.Client.dll
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\Newtonsoft.Json.dll
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\Newtonsoft.Json.Bson.dll
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\System.Runtime.Caching.dll
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\obj\Release\net5.0\ApiService.csproj.AssemblyReference.cache
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\obj\Release\net5.0\ApiService.GeneratedMSBuildEditorConfig.editorconfig
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\obj\Release\net5.0\ApiService.AssemblyInfoInputs.cache
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\obj\Release\net5.0\ApiService.AssemblyInfo.cs
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\obj\Release\net5.0\ApiService.csproj.CoreCompileInputs.cache
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\obj\Release\net5.0\ApiService.MvcApplicationPartsAssemblyInfo.cache
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\obj\Release\net5.0\ApiService.RazorAssemblyInfo.cache
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\obj\Release\net5.0\ApiService.RazorAssemblyInfo.cs
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\obj\Release\net5.0\scopedcss\bundle\ApiService.styles.css
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\obj\Release\net5.0\staticwebassets\ApiService.StaticWebAssets.Manifest.cache
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\obj\Release\net5.0\ApiService.TagHelpers.input.cache
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\obj\Release\net5.0\ApiService.TagHelpers.output.cache
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\obj\Release\net5.0\ApiService.RazorCoreGenerate.cache
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\Category\CategoryDT.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\Category\Edit.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\ItemDiscount\Edit.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\ItemDiscount\ItemDiscountDT.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\ItemImage\Edit.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\ItemImage\ItemImageDT.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\Item\Edit.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\Item\ItemDT.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\Slider\Edit.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\Slider\SliderDT.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\SubCategory\Edit.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\SubCategory\SubCategoryDT.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\obj\Release\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\obj\Release\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\obj\Release\net5.0\Razor\Views\Users\AccessDenied.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\obj\Release\net5.0\Razor\Views\Users\Login.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\obj\Release\net5.0\Razor\Views\Users\Register.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\obj\Release\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\obj\Release\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\obj\Release\net5.0\ApiService.RazorTargetAssemblyInfo.cache
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\obj\Release\net5.0\ApiService.RazorTargetAssemblyInfo.cs
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\obj\Release\net5.0\ApiService.Views.pdb
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\obj\Release\net5.0\ApiService.csproj.CopyComplete
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\obj\Release\net5.0\ApiService.dll
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\obj\Release\net5.0\ref\ApiService.dll
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\obj\Release\net5.0\ApiService.pdb
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\obj\Release\net5.0\ApiService.genruntimeconfig.cache
+F:\MyWork\Asp.net Core\ApiService V2\ApiService\obj\Release\net5.0\refint\ApiService.dll

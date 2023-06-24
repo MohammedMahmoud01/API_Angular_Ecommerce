@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\MyWork\Asp.net Core\Publish\ApiService</_PublishTargetUrl>
+    <History>False|2022-06-11T08:31:27.3448601Z;True|2022-01-15T15:27:51.1417691+02:00;</History>
+  </PropertyGroup>
+</Project>
